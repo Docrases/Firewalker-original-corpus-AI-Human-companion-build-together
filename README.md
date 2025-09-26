@@ -51,7 +51,7 @@ Unlike traditional prompt logs or chatbot datasets, this corpus explores:
 本语料库包含以下主要文件：
 
 - `firewalker-dialogues.json` – 人机协作对话主要文档
-- `七段锦-rewrite-samples.md` – 七段语言改写范例（原文/目标/再写）
+-  七段语言改写范例（原文/目标/再写）
 - `README.md` – 英文主页
 - `manifesto.md` – 火行者计划愿景说明
 - `prompt-modes-list.md` – 所有语调指令/模式切换语句总览
@@ -67,10 +67,8 @@ This repo includes:
 
 - `firewalker-dialogues.json` – Raw export of full dialogue sessions
 - `七段锦-rewrite-samples.md` – Examples of stylistic rewrite layers
-- `README.zh.md` – 中文版本说明
-- `manifesto.md` – “火行者计划”愿景宣言
-- `副控设定集.md` – Noctis/副控拟人化角色设定与接口逻辑
-- `prompt-modes-list.md` – 所有模式语调触发语一览（副控·响应系统）
+- `README.zh.md` – 中英文版本说明
+- “火行者计划”项目文档
 
 > All files are anonymized and cleared of personal data. Please cite responsibly.
 > ##  适用场景
