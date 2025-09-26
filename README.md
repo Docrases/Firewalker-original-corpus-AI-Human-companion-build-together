@@ -1,6 +1,6 @@
 #  Firewalker Language Resonance Corpus  
 *A living language interface built through human–AI co-creation*
-#  火行者语言共振语料库  
+#  火行者项目共鸣、陪伴、情感共建语料库  
 *一套由人类与人工智能共建的语言系统*
 
 > “这不仅是语料集，不是简单的prompt记录。  
